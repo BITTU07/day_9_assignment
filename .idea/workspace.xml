@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ead3e68-66d6-4f80-9820-816bd399a3f6" name="Changes" comment="employee watage computation">
+    <list default="true" id="4d8119f0-a1af-4a76-addf-4308b793f8d7" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/EmpWageBuilderUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpWageBuilderWhille.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpWageBuilderuc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpwageBuilderFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmpwagebuilderUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/empWageBuilderCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uc1_EWCP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uc1_EWCP.java" afterDir="false" />
     </list>
@@ -26,21 +34,49 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2N5PXKgytkGvdu2ICuRi3jwV2jY" />
+  <component name="ProjectId" id="2N5eZ29Bw0F4NXjAxopNlqquTH2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="uc1_EWCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uc1_EWCP" />
+}]]></component>
+  <component name="RunManager" selected="Application.demoObj">
+    <configuration name="EmpWageBuilderFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpWageBuilderFor" />
+      <module name="assighment9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpWageBuilderWhille" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpWageBuilderWhille" />
+      <module name="assighment9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpwageBuilderFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmpwageBuilderFor" />
+      <module name="assighment9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demoObj" />
+      <module name="assighment9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="empWageBuilderCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="empWageBuilderCase" />
       <module name="assighment9" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,23 +84,48 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.uc1_EWCP" />
+        <item itemvalue="Application.demoObj" />
+        <item itemvalue="Application.EmpWageBuilderWhille" />
+        <item itemvalue="Application.EmpwageBuilderFor" />
+        <item itemvalue="Application.EmpWageBuilderFor" />
+        <item itemvalue="Application.empWageBuilderCase" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ead3e68-66d6-4f80-9820-816bd399a3f6" name="Changes" comment="" />
-      <created>1678951029074</created>
+      <changelist id="4d8119f0-a1af-4a76-addf-4308b793f8d7" name="Changes" comment="" />
+      <created>1678958438610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678951029074</updated>
+      <updated>1678958438610</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="employee watage computation" />
-    <option name="LAST_COMMIT_MESSAGE" value="employee watage computation" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EmpwagebuilderUC2.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
